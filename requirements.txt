@@ -1,6 +1,5 @@
 absl-py==0.11.0
 Flask==1.1.2
-grpcio==1.32.0
 gunicorn==20.0.4
 Pillow==8.0.1
 tensorflow==2.0.0b1
